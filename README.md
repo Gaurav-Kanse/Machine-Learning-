@@ -1,1 +1,5 @@
-Tries to determine whether news is real or absolute bullshit. Cannot determine if my code is bullshit.
+Machine Learning Experiments
+
+A collection of notebooks and small experiments from my journey through machine learning.
+
+This repository is intentionally less polished than my standalone projects — it's where I experiment, learn concepts, compare approaches, and turn theory into working implementations.
